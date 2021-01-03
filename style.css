@@ -1,0 +1,215 @@
+/*  <style>
+  .attribution {
+    font-size: 11px;
+    text-align: center;
+  }
+  .attribution a {
+    color: hsl(228, 45%, 44%);
+  }
+</style> */
+:root {
+  font-size: 15px;
+}
+
+body {
+  position: relative;
+  overflow: hidden;
+  margin: auto;
+  width: 1200px;
+  font-family: 'Spartan', sans-serif;
+}
+
+.top-container {
+  position: relative;
+  margin-top: 100px;
+}
+
+.ratings {
+  float: right;
+  margin-left: 300px;
+  width: 800px;
+  margin-top: -370px;
+  padding: 60px;
+}
+.star {
+  padding: 2.5px;
+}
+.stars {
+  float: left;
+  margin-right: 20px;
+  margin-top: 20px;
+}
+
+h3 {
+  font-weight: 400;
+  font-size: 1em;
+  line-height: 1.5;
+  position: relative;
+  top: -25px;
+  color: hsl(303, 10%, 53%);
+}
+
+.Reviews {
+  background-color: hsl(300, 24%, 96%);
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  width: 400px;
+  margin-left: 300px;
+  color: hsl(300, 43%, 22%);
+}
+
+.report {
+  background-color: hsl(300, 24%, 96%);
+  padding: 10px;
+  padding-bottom: 5px;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  margin-left: 50px;
+  width: 400px;
+  margin-left: 350px;
+  color: hsl(300, 43%, 22%);
+}
+
+.BestTech {
+  background-color: hsl(300, 24%, 96%);
+  padding: 10px;
+  padding-bottom: 5px;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-radius: 10px;
+  width: 400px;
+  margin-left: 400px;
+  color: hsl(300, 43%, 22%);
+}
+
+.heading {
+  width: 500px;
+  position: relative;
+  margin-top: 0;
+  font-size: 2em;
+  padding-left: 25px;
+  color: hsl(300, 43%, 22%)
+}
+
+.ten {
+  font-weight: bold;
+}
+
+.heading-2 {
+  width: 450px;
+  position: relative;
+  margin-top: 0;
+  padding-left: 25px;
+}
+
+.bottom-container {
+  position: relative;
+  width: 1200px;
+  display: flex;
+  padding-bottom: 100px;
+}
+
+.colton-review {
+  margin: auto;
+  margin-right: 0;
+  margin-top: 0;
+  padding: 25px;
+  border-radius: 2.5%;
+  width: 325px;
+  background-color: hsl(300, 43%, 22%);
+  height: 175px;
+}
+
+.irene-review {
+  margin: auto;
+  margin-right: 0;
+  margin-top: 20px;
+  padding: 25px;
+  border-radius: 2.5%;
+  width: 325px;
+  background-color: hsl(300, 43%, 22%);
+  height: 175px;
+}
+
+.anne-review {
+  margin: auto;
+  margin-right: 0;
+  margin-top: 40px;
+  padding: 25px;
+  border-radius: 2.5%;
+  width: 325px;
+  background-color: hsl(300, 43%, 22%);
+  height: 175px;
+}
+
+.bio {
+  width: 235px;
+  line-height: 2;
+  font-size: 15.5px;
+  color: hsl(300, 24%, 96%);
+}
+
+.attribution {
+  position: absolute;
+  left: 30%;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover {
+  color: blue;
+}
+.name {
+  float: right;
+  margin-top: -68px;
+  margin-right: 150px;
+  font-size: 1em;
+}
+
+h5 {
+  margin: 0;
+  color: hsl(303, 10%, 53%);
+}
+
+h6 {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-weight: 500;
+  font-family: 'Spartan', sans-serif;
+}
+
+.names {
+  margin-bottom: 5px;
+  color: white;
+}
+
+.imgs img {
+  width: 50px;
+  border-radius: 100%;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
+.top {
+  position: absolute;
+  margin-top: -105px;
+  margin-left: -115px;
+  width: 600px;
+
+
+}
+.bottom {
+  position: absolute;
+  margin-left: 120px;
+  margin-top: 30px;
+  height: 750px;
+}
